@@ -88,4 +88,11 @@ EZPill은 AI 기반의 추천 시스템을 활용하여 사용자에게 맞춤�
 
 ### 시연 영상
 
+
+
+https://github.com/ejehoon/EZPill/assets/78858687/9c32bd7c-047f-4d72-9421-e234a62ec1c4
+
+
+
+
 [PPT 발표자료](https://docs.google.com/presentation/d/1jWQoJAaLv5o7S3HJgyCWu84xJ0ss9vdU/edit?usp=sharing&ouid=109867150069623460304&rtpof=true&sd=true)
