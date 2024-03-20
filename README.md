@@ -1,11 +1,12 @@
 # EZPill - 맞춤형 영양제 소분 서비스
-Tmax AI Bigdata Academy
+**Tmax AI Bigdata Academy**
 
 - 개발기간 : 23.10.30 ~ 23.12.17
 - 사용기술: AWS(EC2,Lambda), Django, Flutter, Mysql
-- 담당 역할: 서버, 백엔드, AI 개발
 
-
+**역할** 
+- 총 5명이서 함께 진행 (프론트,백엔드,AI,알고리즘,서버)
+- 담당 역할: 서버, 백엔드, AI 개발 (기여도 70 %)
 
 ## 1\. 프로젝트 소개
 EZPill은 임신 중인 여성이 임신 주차별로 필요한 맞춤형 영양제를 소분하여 받을 수 있는 서비스입니다.  
