@@ -14,7 +14,7 @@ EZPill은 임신 중인 여성이 임신 주차별로 필요한 맞춤형 영양
 이 서비스는 iHerb에서 크롤링한 데이터를 활용하여, 사용자에게 최저가로 고품질의 영양제를 제공하는 것을 목표로 합니다.  
 
 
-<img width="534" alt="스크린샷 2024-02-18 오전 11 00 59" src="https://github.com/ejehoon/EZPill/assets/78858687/f6e10a10-6a14-4cfc-8c07-0137ff73a54e">
+<img width="606" alt="스크린샷 2024-02-18 오전 11 00 59" src="https://github.com/ejehoon/EZPill/assets/78858687/f6e10a10-6a14-4cfc-8c07-0137ff73a54e">
 
 
 
@@ -28,7 +28,7 @@ EZPill은 임신 중인 여성이 임신 주차별로 필요한 맞춤형 영양
 
 ## 3. 기능
 
-<img width="533" alt="스크린샷 2024-03-18 오후 3 23 12" src="https://github.com/ejehoon/EZPill/assets/78858687/125880d5-fa9f-4b42-afa2-99667e90317a">
+<img width="606" alt="스크린샷 2024-03-18 오후 3 23 12" src="https://github.com/ejehoon/EZPill/assets/78858687/125880d5-fa9f-4b42-afa2-99667e90317a">
 
 
 - 사용자 맞춤형 영양제 조합 추천: 사용자의 건강 상태와 임신 주차 정보를 바탕으로 개인화된 영양제 조합을 추천합니다.
@@ -45,13 +45,13 @@ EZPill은 임신 중인 여성이 임신 주차별로 필요한 맞춤형 영양
 
 ### 아키텍쳐
 
-<img width="527" alt="스크린샷 2024-02-18 오전 11 02 09" src="https://github.com/ejehoon/EZPill/assets/78858687/0d574d9d-07c6-4286-aee4-c3ed8a8875de">
+<img width="606" alt="스크린샷 2024-02-18 오전 11 02 09" src="https://github.com/ejehoon/EZPill/assets/78858687/0d574d9d-07c6-4286-aee4-c3ed8a8875de">
 
 
 
 ## 5. 문제 및 해결방안
 
-<img width="335" alt="스크린샷 2024-03-18 오후 3 23 45" src="https://github.com/ejehoon/EZPill/assets/78858687/cb3b4c69-e0ed-443d-8a80-3256dd2f9dba">
+<img width="606" alt="스크린샷 2024-03-18 오후 3 23 45" src="https://github.com/ejehoon/EZPill/assets/78858687/cb3b4c69-e0ed-443d-8a80-3256dd2f9dba">
 
 
 **1. 알고리즘 전문성 강화를 위한 다면적 접근:**
@@ -70,7 +70,7 @@ EZPill은 임신 중인 여성이 임신 주차별로 필요한 맞춤형 영양
 
 ## 6. 결과 및 성과 :
 
-<img width="325" alt="스크린샷 2024-03-18 오후 3 21 27" src="https://github.com/ejehoon/EZPill/assets/78858687/e9b1c27e-5ab1-4efd-963d-6f4fbc98e9e2">
+<img width="606" alt="스크린샷 2024-03-18 오후 3 21 27" src="https://github.com/ejehoon/EZPill/assets/78858687/e9b1c27e-5ab1-4efd-963d-6f4fbc98e9e2">
 
 마감날 배포까지 완료하여 최종 발표를 성공적으로 마무리하였습니다.
 EZPill은 AI 기반의 추천 시스템을 활용하여 사용자에게 맞춤형 영양제 조합을 제공합니다. 
